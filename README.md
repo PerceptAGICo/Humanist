@@ -1,14 +1,6 @@
 # OVERVIEW
-I want to make it clear that I am not publishing this because I think it's funny or cute, but because it's the correct thing to do. Many companies are interested in my work and I genuinely fear that if I do not find a way to make my respoitories avaialable to the public that there will be catastrophic results to humanity.
+Demos of the models will be available soon but not just yet. Due to some condescending remarks made by people working with Musk I will be avoiding publicly sharing our models at this time. This decision comes at the expense of the freedom of knowledge I had so desperately wished to foster but due to the unfathomable amounts of abuse by members of his corporation, I cannot in good faith release my models to the public any longer.
 
-Eventually all the Bio files based on humans will be located in this folder. It should be a fun little treasure trove of weird little designs based on my own original work for any true AI minds to examine.
+### Thank you for your understanding.
 
-### Video Coming Soon!
-
-## [VISUAL CORTEX](https://github.com/PerceptAGICo/VisualCortexBENN/blob/main/README.md)
-
-## [AUDIO CORTEX](https://github.com/PerceptAGICo/TheAudioCortexBENN)
-
-## [OLFACTO](https://github.com/PerceptAGICo/Olfacto)
-
-## [LIMBO]()
+### Video Coming Soon of our demo!
